@@ -1,5 +1,5 @@
 ## 📸 Preview do projeto
-![Preview do projeto](imagem/preview.png)
+![Preview do projeto](imagens/preview.png)
 📱 Projeto Social
 📖 Sobre o projeto
 
